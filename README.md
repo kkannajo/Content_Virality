@@ -1,1 +1,1 @@
-This project uses regression techniques for predictive modeling for the optimizing energy efficiency dataset form Kaggle.
+This project uses Viral Social Media Trends dataset from Kaggle to uncover key drivers in content virality through data analysis. 
